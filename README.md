@@ -69,4 +69,3 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 2. Performed transient analysis, verifying the read and write operations of the SRAM cell.
 3. Observed correct switching behavior in response to control signals.
 
-
